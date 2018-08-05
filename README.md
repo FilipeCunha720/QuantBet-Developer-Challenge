@@ -1,5 +1,5 @@
 # QuantBet-Developer-Challenge
 
-This is the challenge that the guys at QuantBet have for new developers.
+This is the challenge that [QuantBet have](http://quantbet.com/quiz/dev) asks new candidates to do.
 
-http://quantbet.com/quiz/dev
+
